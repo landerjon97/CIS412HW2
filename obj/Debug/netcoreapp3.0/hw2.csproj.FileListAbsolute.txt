@@ -1,0 +1,11 @@
+/Users/jonlander/Projects/CIS412/hw2/hw2/bin/Debug/netcoreapp3.0/hw2
+/Users/jonlander/Projects/CIS412/hw2/hw2/bin/Debug/netcoreapp3.0/hw2.deps.json
+/Users/jonlander/Projects/CIS412/hw2/hw2/bin/Debug/netcoreapp3.0/hw2.runtimeconfig.json
+/Users/jonlander/Projects/CIS412/hw2/hw2/bin/Debug/netcoreapp3.0/hw2.runtimeconfig.dev.json
+/Users/jonlander/Projects/CIS412/hw2/hw2/bin/Debug/netcoreapp3.0/hw2.dll
+/Users/jonlander/Projects/CIS412/hw2/hw2/bin/Debug/netcoreapp3.0/hw2.pdb
+/Users/jonlander/Projects/CIS412/hw2/hw2/obj/Debug/netcoreapp3.0/hw2.csprojAssemblyReference.cache
+/Users/jonlander/Projects/CIS412/hw2/hw2/obj/Debug/netcoreapp3.0/hw2.AssemblyInfoInputs.cache
+/Users/jonlander/Projects/CIS412/hw2/hw2/obj/Debug/netcoreapp3.0/hw2.AssemblyInfo.cs
+/Users/jonlander/Projects/CIS412/hw2/hw2/obj/Debug/netcoreapp3.0/hw2.dll
+/Users/jonlander/Projects/CIS412/hw2/hw2/obj/Debug/netcoreapp3.0/hw2.pdb
