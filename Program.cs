@@ -12,8 +12,7 @@ namespace hw2
         static BlockingCollection<double> buffer2= new BlockingCollection<double>();
         static BlockingCollection<double> buffer3= new BlockingCollection<double>();
         static void Main(string[] args)
-        {
-            
+        {        
             DateTime t = DateTime.Now;
             long saveticks = t.Ticks;
             new Thread(fact).Start();
@@ -21,8 +20,7 @@ namespace hw2
             new Thread(sum).Start();
             new Thread(addUp).Start();
             t = DateTime.Now;
-            Console.WriteLine((t.Ticks - saveticks) / 10000000.0);
-            
+            Console.WriteLine((t.Ticks - saveticks) / 10000000.0);         
         }
         static void addUp(){
             double counter = 0;
